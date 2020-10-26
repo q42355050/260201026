@@ -1,4 +1,4 @@
-number = int(input("Enter a number: "))
+number = float(input("Enter a number: "))
 
 if(number < 0):
   number *= -1
