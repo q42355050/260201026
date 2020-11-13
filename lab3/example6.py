@@ -1,3 +1,4 @@
+#Roots of Quadratic Equation
 print("Enter the parameters (a, b, c) of a quadratic equation represented as: ax2 + bx + c. \n" )
 a = float(input("a = "))
 b = float(input("b = "))

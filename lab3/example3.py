@@ -1,3 +1,4 @@
+# Graduation Condition
 gpa = float(input("Enter GPA: "))
 lecture_num = int(input("Enter lecture number: "))
 

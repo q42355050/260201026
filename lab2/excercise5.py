@@ -1,3 +1,4 @@
+# Hypotenuse
 edge1 = float(input("Please enter the first edge: "))
 edge2 = float(input("Please enter the second edge: "))
 

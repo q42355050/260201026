@@ -1,3 +1,4 @@
+# Ticket Discount
 age = int(input("Please enter your age: "))
 price = 3
 
