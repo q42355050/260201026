@@ -26,10 +26,3 @@ if is_same:
   print("Yes, it is ceng113@example.com")
 else:
   print("No, it is not ceng113@example.com")
-
-
-
-
-
-
-
